@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://ibb.co/HrKVZvb" alt="PAIMON" width="500" />
+<img src="https://www.linkpicture.com/q/8sa8pbptx9qv1loa_1602749535.jpeg" alt="PAIMON" width="500" />
 
 # PAIMON BOT
 
