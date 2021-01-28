@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://images5.alphacoders.com/911/911614.png" alt="BocchiBot" width="500" />
+<img src="https://images5.alphacoders.com/911/911614.png" alt="PAIMON" width="500" />
 
-# BocchiBot
+# PAIMON BOT
 
-> BocchiBot is a multipurpose WhatsApp bot using wa-automate-nodejs library!
+> PAIMON is a multipurpose WhatsApp bot using wa-automate-nodejs library!
 >
 >
 
