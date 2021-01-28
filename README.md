@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SlavyanDesu/BocchiBot"><img title="Stars" src="https://img.shields.io/github/stars/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
+
+  <a href="https://github.com/hardiantojek93/BocchiBot"><img title="Stars" src="https://img.shields.io/github/stars/hardiantojek93/BocchiBot?color=red&style=flat-square" /></a>
   <a href="https://github.com/SlavyanDesu/BocchiBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SlavyanDesu/BocchiBot?color=red&style=flat-square" /></a>
   <a href="https://github.com/SlavyanDesu/BocchiBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SlavyanDesu/BocchiBot?label=watchers&color=blue&style=flat-square" /></a> <br>
   <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
@@ -33,6 +34,7 @@
 </p>
 
 <p align="center">
+  <a href= https://github.com/hardiantojek93/BocchiBot#thanks-to">Thanks to</a> •
   <a href="https://github.com/SlavyanDesu/BocchiBot#requirements">Requirements</a> •
   <a href="https://github.com/SlavyanDesu/BocchiBot#installation">Installation</a> •
   <a href="https://github.com/SlavyanDesu/BocchiBot#features">Features</a> •
